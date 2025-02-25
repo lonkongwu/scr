@@ -10,7 +10,10 @@ CONFIGS=(
     "/root/cysic-prover1/config.yaml"
 )
 CONFIG_FILE="/root/wallet_config.txt"
-LOG_OUTPUT="/root/cya_log.txt"
+LOG_OUTPUT="/root/cya_log.tlonkongwun@gmail.com
+lonkongwun@gmail.com
+lonkongwun@gmail.com
+t"
 
 # 飞书 Webhook 地址
 FEISHU_ADDRESS=""
